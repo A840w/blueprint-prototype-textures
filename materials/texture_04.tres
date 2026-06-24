@@ -1,7 +1,7 @@
 [gd_resource type="StandardMaterial3D" format=3 uid="uid://dcicici21dnoa"]
 
-[ext_resource type="Texture2D" uid="uid://cy1bwlu2pi5uq" path="res://addons/blueprint_prototype_textures/textures/texture_04.png" id="1_qibtb"]
+[ext_resource type="Texture2D" uid="uid://drktsmi1723m6" path="res://textures/texture_04.png" id="1_qejp4"]
 
 [resource]
-albedo_texture = ExtResource("1_qibtb")
+albedo_texture = ExtResource("1_qejp4")
 uv1_triplanar = true
